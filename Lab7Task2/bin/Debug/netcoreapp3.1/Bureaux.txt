@@ -1,0 +1,3 @@
+Department of Zhytomyr | Galytska street 8/1 | Medyakovsky | 65 | 79 | 90000
+Department of Lviv | Sharanevich 10/3 | Dometo | 100 | 50 | 400000
+Department of Lviv | Sharanevycha 8/1 | Tarasov | 35 | 50 | 25000

@@ -1,0 +1,13 @@
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.exe
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.deps.json
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.runtimeconfig.json
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.runtimeconfig.dev.json
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.dll
+D:\Rider projects\Lab7Task2\Lab7Task2\bin\Debug\netcoreapp3.1\Lab7Task2.pdb
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.csprojAssemblyReference.cache
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.csproj.CoreCompileInputs.cache
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.AssemblyInfoInputs.cache
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.AssemblyInfo.cs
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.dll
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.pdb
+D:\Rider projects\Lab7Task2\Lab7Task2\obj\Debug\netcoreapp3.1\Lab7Task2.genruntimeconfig.cache
